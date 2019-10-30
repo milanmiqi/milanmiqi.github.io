@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on milanmiqi web</title>
+    <link>https://milanmiqi.github.io.git/post/</link>
+    <description>Recent content in Posts on milanmiqi web</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 30 Oct 2019 15:06:56 +0800</lastBuildDate>
+    
+	<atom:link href="https://milanmiqi.github.io.git/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Frist</title>
+      <link>https://milanmiqi.github.io.git/post/frist/</link>
+      <pubDate>Wed, 30 Oct 2019 15:06:56 +0800</pubDate>
+      
+      <guid>https://milanmiqi.github.io.git/post/frist/</guid>
+      <description>新的起点新的开始。。。 ​ 新的学习小分队成立。成员2女2男。我带队。。。。虽然我也是个渣渣。但是我的方向感很强。就让我们在我的带领下前行吧。。。我们的目标是星辰大海。。。。。</description>
+    </item>
+    
+  </channel>
+</rss>
